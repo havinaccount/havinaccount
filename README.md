@@ -16,3 +16,5 @@ I'm passionate about Python Development, Web Scraping and Discovering about new 
 ## 🌐 Connect
 - Telegram: [@Kernelbaker](t.me/@Kernelbaker)
 
+## 📋 Additional Notes
+I'm normally not too much active in github and development so DM me in Telegram
