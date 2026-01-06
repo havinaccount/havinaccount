@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Mobin Saghebi
 
-<!--
-**havinaccount/havinaccount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about Python Development, Web Scraping and Discovering about new techs!
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [CUPC](https://github.com/havinaccount/CUPC)
+
+## 📊 GitHub Stats
+[![Mobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=havinaccount)](https://github.com/havinaccount/github-readme-stats)
+## 🌐 Connect
+- Telegram: [@Kernelbaker](t.me/@Kernelbaker)
+
