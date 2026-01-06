@@ -11,7 +11,8 @@ I'm passionate about Python Development, Web Scraping and Discovering about new 
 - [CUPC](https://github.com/havinaccount/CUPC)
 
 ## 📊 GitHub Stats
-[![Mobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=havinaccount)](https://github.com/havinaccount/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=havinaccount&show_icons=true&theme=dark)
+
 ## 🌐 Connect
 - Telegram: [@Kernelbaker](t.me/@Kernelbaker)
 
