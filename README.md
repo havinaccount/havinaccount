@@ -9,6 +9,7 @@ I'm passionate about Python Development, Web Scraping and Discovering about new 
 
 ## 📂 Projects
 - [CUPC](https://github.com/havinaccount/CUPC)
+- [Timer Resolution](https://github.com/havinaccount/TimerResolution)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=havinaccount&show_icons=true&theme=radical)
